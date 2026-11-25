@@ -44,5 +44,5 @@ I build production **predictive models, NLP document pipelines, and commercial d
 ### Currently Open To
 
 * **Roles:** Data Scientist · Supply Chain Analytics Engineer · Demand Planning Analyst · Applied ML / Document AI Engineer
-* **Locations:** UAE / GCC · Africa Expat FMCG Conglomerates · Bengaluru / Remote Global
+* **Locations:** Global Relocation (Europe · Australia · UAE · Russia · International) & Remote Worldwide
 * **Reach Out:** [jpbenmont@gmail.com](mailto:jpbenmont@gmail.com) · [linkedin.com/in/beaconbix](https://linkedin.com/in/beaconbix)
